@@ -11,7 +11,7 @@ int main(int argc, char** argv)
 {
 	for (int x = -4; x <= 4; x++) {
 		for (int z = -4; z <= 4; z++) {
-			blocks.push_back(Block(x, 0, z, 0));
+			blocks.push_back(Block(x, 0, z, 1));
 		}
 	}
 	glutInit(&argc, argv);
