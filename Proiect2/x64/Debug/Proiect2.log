@@ -1,0 +1,8 @@
+﻿  render.cpp
+E:\work\OpenGL\Proiect2\Proiect2\render.h(17,26): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\work\OpenGL\Proiect2\Proiect2\render.cpp(13,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\work\OpenGL\Proiect2\Proiect2\render.cpp(13,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\work\OpenGL\Proiect2\Proiect2\render.cpp(199,13): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+E:\work\OpenGL\Proiect2\Proiect2\render.cpp(204,54): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+E:\work\OpenGL\Proiect2\Proiect2\render.cpp(231,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+  Proiect2.vcxproj -> E:\work\OpenGL\Proiect2\x64\Debug\Proiect2.exe
